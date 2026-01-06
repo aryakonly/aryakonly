@@ -15,7 +15,7 @@
 ## 🛠️ Skills & Tools
 
 ### ☁️ Cloud & DevOps
-- AWS (EC2, S3, IAM, VPC, RDS, CloudWatch)
+- AWS (EC2, S3, IAM, VPC, RDS, CloudWatch, cloudfront)
 - Linux (Ubuntu, Amazon Linux, CentOS)
 - Git & GitHub
 - DevOps (Learning: Docker, CI/CD, Jenkins)
@@ -74,7 +74,7 @@
 ---
 
 ## 📌 Projects
-- 🛒 **Student information form Web App (AWS 3-Tier Architecture)**
+- 🎓 **Student information form Web App (AWS 3-Tier Architecture)**
 
 ---
 
