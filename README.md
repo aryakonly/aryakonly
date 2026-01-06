@@ -53,7 +53,7 @@
 
 <p align="left">
 
-<a href="https://github.com/arya4747" target="_blank">
+<a href="https://github.com/aryakonly" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
        alt="GitHub" width="40" height="40"/>
 </a>
@@ -86,7 +86,7 @@
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/arya4747
+- GitHub: https://github.com/aryakonly
 - LinkedIn: https://www.linkedin.com/in/arya-kadam-337028287
 - Email: kadam.arya9058@gmail.com
 
