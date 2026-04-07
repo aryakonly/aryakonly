@@ -1,12 +1,9 @@
 <div align="center">
 
 
- ______  ______  __  __  ______      __  __  ______  _____   ______  __    __  
-/\  __ \/\  == \/\ \_\ \/\  __ \    /\ \/ / /\  __ \/\  __-./\  __ \/\ "-./  \ 
-\ \  __ \ \  __<\ \____ \ \  __ \   \ \  _"-\ \  __ \ \ \/\ \ \  __ \ \ \-./\ \
- \ \_\ \_\ \_\ \_\/\_____\ \_\ \_\   \ \_\ \_\ \_\ \_\ \____-\ \_\ \_\ \_\ \ \_\
-  \/_/\/_/\/_/ /_/\/_____/\/_/\/_/    \/_/\/_/\/_/\/_/\/____/ \/_/\/_/\/_/  \/_/
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00C9FF&height=240&section=header&text=Arya%20Kadam&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Administrator%20%7C%20DevOps%20Engineer%20%7C%20AWS%20Enthusiast&descAlignY=60&descSize=18" />
+</p>
 
 ### ☁️ Cloud & DevOps Enthusiast | AWS | Linux | Automation
 
