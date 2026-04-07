@@ -1,6 +1,5 @@
 <div align="center">
 
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00C9FF&height=240&section=header&text=Arya%20Kadam&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Administrator%20%7C%20DevOps%20Engineer%20%7C%20AWS%20Enthusiast&descAlignY=60&descSize=18" />
 </p>
@@ -10,6 +9,15 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Cloud+Computing+Student+%F0%9F%8E%93;AWS+%7C+Linux+%7C+DevOps+in+Progress+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%E2%AD%90" alt="Typing SVG" />
 
 </div>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800"/>
+</p>
+
+<h3 align="center">Designing Scalable AWS Infrastructure ☁️</h3>
+<p align="center">DevOps | AWS | Terraform | CI/CD 🚀</p>
 
 ---
 
