@@ -78,14 +78,10 @@ EC2 · S3 · IAM · VPC · RDS · CloudWatch · CloudFront · Lambda
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryakonly&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryakonly&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aryakonly&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aryakonly&theme=tokyonight" />
+</p>
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=aryakonly&theme=tokyonight)
