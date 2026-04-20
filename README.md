@@ -21,6 +21,10 @@
 
 ---
 
+### 🌐 [View My Portfolio → aryakonly.github.io](https://aryakonly.github.io/)
+
+---
+
 ## 👨‍💻 About Me
 
 yaml
