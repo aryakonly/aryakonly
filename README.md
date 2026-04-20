@@ -20,8 +20,10 @@
 <p align="center">DevOps | AWS | Terraform | CI/CD 🚀</p>
 
 ---
-
-### 🌐 [View My Portfolio → aryakonly.github.io](https://aryakonly.github.io/)
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/🌐%20PORTFOLIO-aryakonly.github.io-00C9FF?style=for-the-badge&logoColor=white)](https://aryakonly.github.io/)
+</div>
 
 ---
 
