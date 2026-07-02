@@ -1,5 +1,5 @@
 <div align="center">
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=aryakonly&label=Profile%20views&color=0e75b6&style=flat" alt="aryakonly" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=aryakonly&label=Visitors%20&color=0e75b6&style=flat" alt="aryakonly" /> </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00C9FF&height=240&section=header&text=Arya%20Kadam&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Administrator%20%7C%20DevOps%20Engineer%20%7C%20AWS%20Enthusiast&descAlignY=60&descSize=18" />
 </p>
