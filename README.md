@@ -37,11 +37,10 @@ Status   : DevOps in Progress 🚧
 Motto    : "Always learning, always building"
 
 
-- 🎓 *Cloud Computing* student at *Fortune Cloud*
 - ☁️ Completed *Linux & AWS* — currently deep in *DevOps*
 - 🔧 Hands-on with AWS services, IaC (Terraform), and system administration
 - 💡 Passionate about *Cloud Architecture, **DevOps pipelines* & *Automation*
-- 🌱 Currently exploring *Docker, **CI/CD, and **Kubernetes*
+- 🌱 Exploring more *Docker, **CI/CD, and **Kubernetes*
 
 ---
 
