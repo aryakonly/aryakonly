@@ -4,9 +4,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00C9FF&height=240&section=header&text=Arya%20Kadam&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20Administrator%20%7C%20DevOps%20Engineer%20%7C%20AWS%20Enthusiast&descAlignY=60&descSize=18" />
 </p>
 
-### ☁️ Cloud & DevOps Enthusiast | AWS | Linux | Automation
+### ☁️ Cloud & DevOps Enthusiast | AWS | Linux | Automation | Docker | Kubernetes
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Cloud+Computing+Student+%F0%9F%8E%93;AWS+%7C+Linux+%7C+DevOps+in+Progress+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%E2%AD%90" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Cloud+Computing+Student+%F0%9F%8E%93;AWS+%7C+Linux+%7C+DevOps+%7C+Docker+%7C+K8s;Always+Learning%2C+Always+Building+%E2%AD%90" alt="Typing SVG" />
 
 </div>
 
@@ -17,11 +17,11 @@
 </p>
 
 <h3 align="center">Designing Scalable AWS Infrastructure ☁️</h3>
-<p align="center">DevOps | AWS | Terraform | CI/CD 🚀</p>
+<p align="center">DevOps | AWS | Terraform | Docker | Kubernetes | CI/CD 🚀</p>
 
 ---
 <div align="center">
-  
+
 [![Portfolio](https://img.shields.io/badge/🌐%20PORTFOLIO-aryakonly.github.io-00C9FF?style=for-the-badge&logoColor=white)](https://aryakonly.github.io/)
 </div>
 
@@ -29,18 +29,18 @@
 
 ## 👨‍💻 About Me
 
-yaml
+```yaml
 Name     : Arya Kadam
-Role     : Cloud & DevOps Enthusiast
+Role     : Cloud & DevOps Engineer
 Learning : Cloud Computing @ Fortune Cloud
-Status   : DevOps in Progress 🚧
+Status   : Building end-to-end DevOps pipelines 🚀
 Motto    : "Always learning, always building"
+```
 
-
-- ☁️ Completed *Linux & AWS* — currently deep in *DevOps*
-- 🔧 Hands-on with AWS services, IaC (Terraform), and system administration
-- 💡 Passionate about *Cloud Architecture, **DevOps pipelines* & *Automation*
-- 🌱 Exploring more *Docker, **CI/CD, and **Kubernetes*
+- ☁️ Completed *Linux, AWS, Docker, CI/CD & Kubernetes* — now sharpening real-world DevOps pipelines
+- 🔧 Hands-on with AWS services, IaC (Terraform), containerization, and system administration
+- 💡 Passionate about *Cloud Architecture, DevOps automation & Infrastructure as Code*
+- 🌱 Currently deepening skills in *GitOps, monitoring/observability, and advanced Kubernetes (Helm, operators)*
 
 ---
 
@@ -52,12 +52,11 @@ Motto    : "Always learning, always building"
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
 
 *AWS Services:*
 EC2 · S3 · IAM · VPC · RDS · CloudWatch · CloudFront · Lambda
@@ -83,13 +82,24 @@ EC2 · S3 · IAM · VPC · RDS · CloudWatch · CloudFront · Lambda
 
 ---
 
-## 📚 Currently Learning
+## ✅ Skills Completed
 
+```
+☁️  AWS Cloud Fundamentals   ██████████  100%
+🐧  Linux Administration     ██████████  100%
+🌍  Terraform (IaC)          ██████████  100%
+🐳  Docker & Containers      ██████████  100%
+🔄  CI/CD Pipelines          ██████████  100%
+⎈   Kubernetes               ██████████  100%
+```
 
-🐳 Docker & Containers     ████████░░  80%
-🔄 CI/CD Pipelines         ██████░░░░  60%
-⎈  Kubernetes Basics       ████░░░░░░  40%
+## 📚 Currently Deepening
 
+```
+🕸️  GitOps (ArgoCD/Flux)     ████░░░░░░  40%
+📈  Monitoring/Observability ███░░░░░░░  30%
+⛵  Helm & K8s Operators     ███░░░░░░░  30%
+```
 
 ---
 
